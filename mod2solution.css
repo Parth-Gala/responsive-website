@@ -8,7 +8,7 @@
 }
 p{
     border: none;
-    background-color: #999999;
+    background-color: rgb(153, 153, 153);
     clear: right;
     font-family: cursive;
     font-size:18px;
@@ -41,15 +41,15 @@ div > div{
 }
 
 #box1{
-    background-color: #d59898;
+    background-color: rgb(213, 152, 152);
     color: black;
 }
 #box2{
-    background-color: #c14543;;
+    background-color: rgb(193, 69, 67);;
     color: white;
 }
 #box3{
-    background-color: #e5d198;
+    background-color: rgb(229, 209, 152);
     color: black;
 }
 
@@ -74,7 +74,7 @@ div > div{
     }
  }
  .container{
-    background-color: #999999;
+    background-color: rgb(153, 153, 153);
     border: 3.5px solid black;
     overflow:auto;
     padding: unset;
@@ -84,3 +84,4 @@ div > div{
     top: 0px;
     left:24px
  }
+
